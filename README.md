@@ -1,2 +1,2 @@
 # About
-This repository contains short summaries of some NLP papers.
+This repository contains short summaries of some AI papers.
