@@ -1,2 +1,2 @@
-# papers-notes
-Notes on papers I read
+# About
+This repository contains short summaries of some NLP papers.
